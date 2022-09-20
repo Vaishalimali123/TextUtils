@@ -1,4 +1,4 @@
-// import logo from './logo.svg';
+ // import logo from './logo.svg';
 import { useState } from "react";
 import "./App.css";
 import Alert from "./components/Alert";
@@ -80,7 +80,7 @@ function App() {
               {/* } */}
             {/* ></Route>  */}
 
-            {/* <Route path="/about" element={<About />} />
+            {/* <Route path="/about" element={<About mode={mode} />} />
            </Routes>  */}
         </div>
       {/* </Router> */}
